@@ -1,0 +1,7 @@
+{
+  "name": "APMApplication",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
